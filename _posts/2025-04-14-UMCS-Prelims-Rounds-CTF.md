@@ -1,6 +1,6 @@
 ---
 title: "UMCS CTF 2025"
-date: 2023-04-14
+date: 2025-04-14
 categories: [CTF]
 tags: [CTF]
 image: assets/writeups/UMCS/U1.png
