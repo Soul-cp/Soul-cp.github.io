@@ -2,7 +2,7 @@
 title: "n00bst3am CTF 2024 - Full Writeup"
 date: 2024-07-24
 categories: [CTF, Writeup]
-tags: [ihack24, splunk, reverse, DFIR, malware, web, IDOR]
+tags: [ihack24, reverse, malware, web, IDOR]
 image: assets/writeups/Ihack/Ihack.png
 ---
 
@@ -40,7 +40,7 @@ Test it inside the application:
 ![img](assets/writeups/Ihack/ihack17.png)
 
 Confirmed valid. Final flag:  
-✅ **Flag:** `ihack24{1724-2321 NBSI-HACK}`
+✅ **Flag:** `ihack24{1724-2321-NBSI-HACK}`
 
 ---
 

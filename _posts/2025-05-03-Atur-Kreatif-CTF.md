@@ -17,7 +17,7 @@ This web challenge revolves around modifying the **browser cookies**  a play on 
 
 Upon opening the challenge site and inspecting it using **F12 Developer Tools**, I noticed that **no cookies** were present in the `Application > Storage > Cookies` section.
 
-![Initial state](/assets/writeups/AKCTF/cookies.png)
+ 
 
 ---
 

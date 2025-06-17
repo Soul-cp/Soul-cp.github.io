@@ -79,8 +79,43 @@ Now let's try submit it on crackme.exe
 
 So , The flag is `WSCTF2021{1010-1337-1290-5678}`
 
+## Challenge: Showflag.exe
+**Category:** Reverse Engineering  
+**Event:** RAWSEC RAKSASA CTF 2023  
+**Date:** October 23, 2023
+
+### Initial Analysis
+
+The first thing i do is check the file type using command `file` showing the result is ``PE32+`` executable and .NET Assembly.
+
+![img](assets/writeups/Rawsec/1.png)
+
+So it's a GUI running on windows and .NET Assembly.Next use dnspy to dissamble it . Upon Analyze it I found that there is 6 flag in total . So the exe file when you run it show the flag. But here it only show 5 flag and missing 1 so here I found out there must be some code error that not showing the real flag.Continue Analyze it in dnspy.
+
+![img](assets/writeups/Rawsec/7.png)
+
+![img](assets/writeups/Rawsec/2.png)
+
+![img](assets/writeups/Rawsec/3.png)
+
+![img](assets/writeups/Rawsec/4.png)
+
+![img](assets/writeups/Rawsec/5.png)
+
+![img](assets/writeups/Rawsec/6.png)
+
+Next continue analyze in dnspy and we found the error.The code show it only print flag1,2,3,4,5 while the flag is actually 6 in total.so flag 6 might be containing the real flag .Modify the code to print flag 6 and we get the flag.
 
 
+![img](assets/writeups/Rawsec/10.png)
+
+![img](assets/writeups/Rawsec/9.png)
+
+ Replace it to flag6 to print the output . Run again the Program. Click showflag button untill you find flag6 which is real flag.
+
+ ![img](assets/writeups/Rawsec/11.png)
+
+The flag is : WSCTF2021{XOR1NG_IM4G35}
 
 
 
