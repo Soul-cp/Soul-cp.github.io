@@ -2,7 +2,7 @@
 title: "Blackberry-CCoe-Anniversary CTF 2025 - Writeup"
 date: 2025-05-09
 categories: [CTF, Writeup]
-tags: [CTF, reverse, web]
+tags: [Reverse Engineering, web]
 image: assets/writeups/BBCTF/BBCTF.png
 ---
 

@@ -2,7 +2,7 @@
 title: "AturKreatif CTF 2025 - Writeup"
 date: 2025-05-03
 categories: [CTF, Writeup]
-tags: [AturKreatif, CTF, reverse, forensic, boot2root, web,]
+tags: [Reverse Engineering, forensic, boot2root, web,]
 image: assets/writeups/AKCTF/AKCTF25.png
 ---
 ## WEB

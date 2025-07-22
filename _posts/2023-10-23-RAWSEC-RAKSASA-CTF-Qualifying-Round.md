@@ -1,8 +1,8 @@
 ---
-title: "RAWSEC RAKSASA CTF 2023"
+title: "RAWSEC RAKSASA CTF 2023 Qualifying Round"
 date: 2023-10-23 
 categories: [CTF]
-tags: [CTF]
+tags: [Reverse Engineering]
 image: assets/writeups/Rawsec/Rawsec.png
 ---
 

@@ -2,7 +2,7 @@
 title: "UMCS CTF 2025"
 date: 2025-04-14
 categories: [CTF]
-tags: [CTF]
+tags: [forensic,web,Reverse Engineering,Crypto]
 image: assets/writeups/UMCS/U1.png
 ---
 
