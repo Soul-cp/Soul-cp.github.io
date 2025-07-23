@@ -6,7 +6,6 @@ tags: [Reverse Engineering, web]
 image: assets/writeups/BBCTF/BBCTF.png
 ---
 
-
 ## web
 
 ## Challenge name : SQLI Series - 1

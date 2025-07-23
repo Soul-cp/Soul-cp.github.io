@@ -2,7 +2,7 @@
 title: "Battle of Hacker 2022 "
 date: 2022-10-27
 categories: [CTF]
-tags: [ Reverse Engineering ]
+tags: [Reverse Engineering]
 image: assets/writeups/BOH2022/BOH1.png
 ---
 

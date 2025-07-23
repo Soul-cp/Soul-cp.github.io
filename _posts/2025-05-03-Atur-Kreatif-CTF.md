@@ -5,6 +5,7 @@ categories: [CTF, Writeup]
 tags: [Reverse Engineering, forensic, boot2root, web,]
 image: assets/writeups/AKCTF/AKCTF25.png
 ---
+
 ## WEB
 
 ### 🍪 Challenge: Cookie Value (Web)
